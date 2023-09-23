@@ -1,0 +1,41 @@
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+No Lab Data Found, Log Time : 21-09-2021 08:29:48 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+SUCCESS 42395 Lab Data Found, process time 13-10-2021 12:52:12 PM to 13-10-2021 01:16:22 PM, Log Time : 13-10-2021 01:16:27 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+SUCCESS 23279 Lab Data Found, process time 14-10-2021 01:38:54 PM to 14-10-2021 01:52:24 PM, Log Time : 14-10-2021 01:52:35 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+No Lab Data Found, Log Time : 15-10-2021 03:34:26 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Lab Stock fetching is inprocess from fortune database, Log Time : 18-10-2021 07:37:45 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+The given path's format is not supported., Log Time : 18-10-2021 07:51:51 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+The given path's format is not supported., Log Time : 18-10-2021 07:56:02 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Lab Stock fetching is inprocess from fortune database, Log Time : 18-10-2021 08:03:13 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+No Lab Data Found, Log Time : 18-10-2021 08:33:43 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+The given path's format is not supported., Log Time : 18-10-2021 08:35:02 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Last Lab Stock Upload time (18-Oct-2021 08:34:37 PM) and Current time (18-Oct-2021 06:13:30 PM) Must be more than or equals to 115 minutes, Log Time : 18-10-2021 08:41:45 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+SUCCESS 4 Lab Data Found for 14:15 to 20:45 Hour, process time 18-10-2021 08:45:37 PM to 18-10-2021 08:45:53 PM, Log Time : 18-10-2021 08:46:11 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+ORA-06550: line 1, column 7:
+PLS-00306: wrong number or types of arguments in call to 'GET_OFFER_DET_WEBSITE_CHINA'
+ORA-06550: line 1, column 7:
+PL/SQL: Statement ignored, Log Time : 11-01-2022 01:21:08 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Arithmetic operation resulted in an overflow., Log Time : 11-01-2022 01:23:30 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Arithmetic operation resulted in an overflow., Log Time : 11-01-2022 01:35:38 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Lab Stock fetching is inprocess from fortune database, Log Time : 11-01-2022 01:52:05 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Lab Stock fetching is inprocess from fortune database, Log Time : 11-01-2022 01:52:57 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Lab Stock fetching is inprocess from fortune database, Log Time : 11-01-2022 01:56:00 PM
+= = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Arithmetic operation resulted in an overflow., Log Time : 11-01-2022 02:05:49 PM
